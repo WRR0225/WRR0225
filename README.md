@@ -1,9 +1,10 @@
 # Hi 👋 I'm WRR
 
 ### 🛠️ Tech Stack
-<div style="display: flex; align-items: center;>
+<div style="display: flex; align-items: center;">
+  
   <div>
-      <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="220" height="220">
+      <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/TypeScript.png" width="140" height="140">
   </div>
 
   <div>
@@ -21,6 +22,7 @@
   <div>
       <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png" width="180" height="180">
   </div>
+  
 </div>
 
 <!--
