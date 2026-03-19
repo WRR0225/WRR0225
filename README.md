@@ -1,13 +1,13 @@
 # Hi 👋 I'm WRR
 
 ### 🛠️ Tech Stack
-<div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap; padding: 10px;">
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="200" height="200">
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/tailwind%20css/png/Tailwindcss.png" width="160" height="160">
+<div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap; ">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="220" height="220">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/tailwind%20css/png/Tailwindcss.png" width="180" height="180">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="150" height="150">
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" width="160" height="160">
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="160" height="160">
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png" width="160" height="160">
+  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" width="180" height="180">
+  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="180" height="180">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png" width="180" height="180">
 </div>
 
 
