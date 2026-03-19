@@ -4,9 +4,9 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="220" height="220">
   <!-- <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/tailwind%20css/png/Tailwindcss.png" width="180" height="180"> -->
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="140" height="140">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="140" height="140" margin-top="-20">
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" width="180" height="180">
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="180" height="180">
+  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="180" height="180" margin-left="-20">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png" width="180" height="180">
 </div>
 
