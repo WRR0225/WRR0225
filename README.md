@@ -2,7 +2,7 @@
 
 ### Tech Stack
 <div>
-  <img src="https://github.com/WRR0225/WRR0225/blob/main/TypeScript.png" width="210" height="210">
+  <img src="https://github.com/WRR0225/WRR0225/blob/main/TypeScript.png" width="210" height="210" style="margin-left: 50px;">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="140" height="140">
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" width="180" height="180">
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="180" height="180">
