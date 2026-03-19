@@ -1,7 +1,7 @@
 # Hi 👋 I'm WRR
 
 ### 🛠️ Tech Stack
-<div style="display: inline-flex; align-items: center;">
+<div style="display: inline-flex; align-items: center; flex-wrap: wrap;">
   
   <div style="display: inline-block;">
       <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="140" height="140">
