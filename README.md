@@ -1,25 +1,25 @@
 # Hi 👋 I'm WRR
 
 ### 🛠️ Tech Stack
-<div style="display: flex; align-items: center;">
+<div style="display: inline-flex; align-items: center;">
   
-  <div>
+  <div style="display: inline-block;">
       <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="140" height="140">
   </div>
 
-  <div>
+  <div style="display: inline-block;">
       <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="140" height="140">
   </div>
 
-  <div>
+  <div style="display: inline-block;">
       <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png" width="180" height="180">
   </div>
 
-  <div>
+  <div style="display: inline-block;">
     <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vite/Vite.png" width="180" height="180">
   </div>
   
-  <div>
+  <div style="display: inline-block;">
       <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png" width="180" height="180">
   </div>
   
