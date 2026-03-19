@@ -4,9 +4,9 @@
 ### 🛠️ Tech Stack
 <div>
   <img src="https://raw.githubusercontent.com/sawaratsuki1004/KawaiiLogos/main/JavaScript/JavaScript.png" width="40" height="40">
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="120" height="120">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="150" height="150">
   <img src="https://raw.githubusercontent.com/sawaratsuki1004/KawaiiLogos/main/TypeScript/TypeScript.png" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/sawaratsuki1004/KawaiiLogos/main/TypeScript/React.png" width="40" height="40">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="150" height="150">
   <img src="https://raw.githubusercontent.com/sawaratsuki1004/KawaiiLogos/main/Node.js/Figma.jpg" width="40" height="40">
 </div>
 
