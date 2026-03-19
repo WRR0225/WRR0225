@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   
   <div>
-      <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/TypeScript.png" width="140" height="140">
+      <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="140" height="140">
   </div>
 
   <div>
