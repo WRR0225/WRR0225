@@ -1,7 +1,7 @@
 # Hi 👋 I'm WRR
 
 ### 🛠️ Tech Stack
-<div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap; ">
+<div style="display: flex; align-items: center; gap: 4px; ; ">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/png/TypeScript.png" width="220" height="220">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/tailwind%20css/png/Tailwindcss.png" width="180" height="180">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png" width="150" height="150">
